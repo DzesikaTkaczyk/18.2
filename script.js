@@ -11,7 +11,7 @@ var movies = [
 		title: 'Król Lew',
 		desc: 'Film o królu sawanny',
 		img: 'https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Lion_king_1_half_cover.jpg/220px-Lion_king_1_half_cover.jpg',
-		alt: 'król Lew plakat'
+		alt: 'Król Lew plakat'
 	},
 	{
 		id: 3,
